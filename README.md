@@ -28,3 +28,25 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ## What Is a Regex?
 A regex, which is short for regular expression, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.
 
+## Public Gist
+https://gist.github.com/patrickmc19/31f4ab4bc68321f6516d8f64a0af80d2
+
+## What was my motivation?
+
+To learn about regex and how to use them.
+
+## Why did I build this project?
+
+Because regex is a useful tool for developers.
+
+## What problem does it solve?
+
+This project helps developers understand regex and how to use them - specifically email validation. This project also helps developers understand how to write a tutorial.
+
+## What did you learn?
+
+I learned how to write a tutorial and how to use regex.
+
+## What makes your project stand out?
+
+I think this project stands out because I defined regex components that were not used in the example code. My hope is this will be used to fully comprehend regex.
